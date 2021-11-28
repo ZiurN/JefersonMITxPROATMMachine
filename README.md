@@ -9,7 +9,7 @@ It is just a simple ATM machine simulator.
 #### InSite
 
 Just go to this link:
-[https://ziurn.github.io/JefersonMITxProReactToDoList/](https://ziurn.github.io/JefersonMITxProReactToDoList/)
+[https://ziurn.github.io/JefersonMITxProReactToDoList/](https://ziurn.github.io/JefersonMITxPROATMMachine/)
 
 #### Download this repository.
 Just clone or download this repository, and open the <code>index.html</code> file on your favorite web browser.
@@ -20,4 +20,4 @@ There are some feature will be introduced in the future.
 * Connect to a Database.
 
 ## License information
-This code is under MIT licence, you can find the complete file [here](https://github.com/ZiurN/JefersonMITxPROEyeMovement/blob/main/LICENSE)
+This code is under MIT licence, you can find the complete file [here](https://github.com/ZiurN/JefersonMITxProReactToDoList/blob/main/LICENSE)
